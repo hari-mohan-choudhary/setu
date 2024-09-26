@@ -12,6 +12,7 @@ crate-type = ["cdylib"]
 android_logger = "0.14.1"
 jni = "0.21.1"
 log = "0.4.22"
+minifb = "0.27.0"
 stretch = "0.3.2"
 taffy = "0.5.2"
 tiny-skia = "0.11.4"
